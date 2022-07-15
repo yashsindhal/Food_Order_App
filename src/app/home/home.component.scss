@@ -5,8 +5,7 @@ ul{
     flex-wrap: wrap;
     list-style-type: none;
     padding: 0;
-
-}
+ }
 ul li a {
     height: 19rem;
     width: 20rem;
@@ -16,8 +15,12 @@ ul li a {
     display: block;
     flex-direction: columns;
     overflow: hidden;
-    color: red;
+    color: #fc8019;
     background-color: whitesmoke;
+}
+
+ul li a:hover{
+    border: 1px solid grey;
 }
 
 .foodimage{

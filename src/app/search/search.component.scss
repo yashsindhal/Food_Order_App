@@ -2,6 +2,7 @@ div{
     display: flex;
     justify-content: center;
     margin-top: 2rem;
+    margin-bottom: 1.3rem;
     
 }
 div input{
@@ -23,7 +24,7 @@ div button{
     border-radius: 0 10rem 10rem 0;
     outline: none;
     border: none;
-    background-color: red;
+    background-color: #fc8019;
     color: white;
 }
 div button:hover{
